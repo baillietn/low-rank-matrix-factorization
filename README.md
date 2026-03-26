@@ -12,8 +12,6 @@
 
 **Collaborateur** : Antoine Pichon (projet effectué en binôme)
 
-**Contact** : xavier.vasseur@gmail.com
-
 ## 🎯 Objectif du Projet
 
 Ce projet vise à analyser et implémenter des algorithmes de factorisation structurée de matrices de grande taille. L'accent est mis sur les méthodes suivantes :
@@ -42,21 +40,6 @@ Ce projet s'appuie sur les contenus des cours suivants :
 - **Algèbre linéaire** : SciPy
 - **Traitement d'images** : PIL (Pillow)
 - **Visualisation** : Matplotlib
-
-### Prérequis
-- Connaissance basique de Python
-- Maîtrise élémentaire de NumPy
-- Familiarité avec l'algèbre linéaire
-
-## 📅 Calendrier des Séances
-
-| Date | Type | Groupe | Horaire | Lieu |
-|------|------|--------|---------|------|
-| 5/3/25 | C/TD | B1-B2 | 08:00-10:00 | A301 |
-| 12/3/25 | TP | B1 | 10:00-12:00 | C304 |
-| 12/3/25 | TP | B1 | 16:00-18:00 | C202 |
-| 19/3/25 | TP | B2 | 16:00-18:00 | C304 |
-| 26/3/25 | TP | B2 | 16:00-18:00 | As204 |
 
 ## 📝 Structure du Projet
 
